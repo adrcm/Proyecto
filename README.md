@@ -6,9 +6,6 @@
 
 - 🌱 I’m currently learning **HTML,CSS & JS**
 
-- 👯 I’m looking to collaborate on **...**
-
-- 🤝 I’m looking for help with **...**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
